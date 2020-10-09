@@ -4,7 +4,6 @@
 #include<GL/gl.h>
 #include <GL\freeglut.h>
 #include <iostream>
-#include<math.h>
 
 using namespace std;
 
